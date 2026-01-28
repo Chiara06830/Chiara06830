@@ -1,6 +1,6 @@
 # About me
 
-Currently working at the [University of Rennes as](https://www.univ-rennes.fr/) as temporary CS Teacher. Mostly teaching Software Engineering.  
+Currently working at the [University of Rennes](https://www.univ-rennes.fr/) as temporary CS Teacher. Mostly teaching Software Engineering.  
 Trying my best to pass the exam to be an highschool teacher.
 
 ## 🌐 Socials:
